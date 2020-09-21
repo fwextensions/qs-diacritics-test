@@ -1,0 +1,1 @@
+An exampe of using the `preprocessString` option to `QuickScore` to ignore diacritics in item strings.
